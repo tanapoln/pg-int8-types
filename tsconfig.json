@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "module": "NodeNext",
+        "outDir": "dist",
+        "allowJs": true,
+        "declaration": true,
+        "esModuleInterop": true
+    },
+    "compileOnSave": false,
+    "exclude": ["node_modules", "dist", "src/**/*.spec.js", "src/**/*.spec.ts"],
+    "include": ["src"]
+}
